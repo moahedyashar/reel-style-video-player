@@ -1,0 +1,6 @@
+{
+  "name": "Video Player",
+  "description": "TikTok-style vertical video player with folder import, smart shuffle, and file deletion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
